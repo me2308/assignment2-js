@@ -1,0 +1,32 @@
+
+.text-style{
+    font-size: 80px;
+    color: #000000;
+    font-family: "Libre Franklin", sans-serif;
+    font-weight: 900;
+    margin: 50px 0;
+}
+.p-style{
+    color: #000000;
+    font-size: 35px;
+    margin: 35px 0 ;
+    /* font-family: "Luxurious Roman", serif; */
+    
+}
+div button{
+    width: 250px;
+    height: 80px;
+    font-size: 13px;
+    font-weight: 500;
+    color: white;
+    background-color: #0000FF;
+
+}
+.quote-style{
+    font-size: 35px;
+
+}
+.quote-style p{
+    font-size: 30px;
+    /* font-family: "Luxurious Roman", serif; */
+}
